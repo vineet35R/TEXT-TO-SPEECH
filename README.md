@@ -14,7 +14,7 @@ This Python-based GUI application allows users to convert text into speech using
 3️⃣ Click "Reset" to clear the text input.
 
 🛠 Libraries Used:<br>
-<b>tkinter<\b> – Built-in Python library for creating graphical user interfaces (GUI). Used for input fields, buttons, and message pop-ups.<br>
+tkinter – Built-in Python library for creating graphical user interfaces (GUI). Used for input fields, buttons, and message pop-ups.<br>
 messagebox (from tkinter) – Provides pop-up message dialogs for error handling and success notifications.<br>
 os – Allows interaction with the operating system. Used here to execute a PowerShell command for text-to-speech conversion.
 
