@@ -2,8 +2,8 @@
 This Python-based GUI application allows users to convert text into speech using Tkinter for the interface and PowerShell’s SpeechSynthesizer for speech synthesis on Windows. The app takes user input, processes it, and plays the text as speech.
 
 📌 Features
-✅ Simple and user-friendly GUI using Tkinter\n
-✅ Converts text into speech instantly\n
+✅ Simple and user-friendly GUI using Tkinter<br>
+✅ Converts text into speech instantly<br>
 ✅ Uses PowerShell's SpeechSynthesizer (Windows)
 ✅ Reset button to clear input
 ✅ Error handling for empty inputs
